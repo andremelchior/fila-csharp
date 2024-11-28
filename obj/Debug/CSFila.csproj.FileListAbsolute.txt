@@ -1,0 +1,13 @@
+C:\Users\André\source\repos\CSFila\bin\Debug\CSFila.exe.config
+C:\Users\André\source\repos\CSFila\bin\Debug\CSFila.exe
+C:\Users\André\source\repos\CSFila\bin\Debug\CSFila.pdb
+C:\Users\André\source\repos\CSFila\obj\Debug\CSFila.csprojAssemblyReference.cache
+C:\Users\André\source\repos\CSFila\obj\Debug\CSFila.exe
+C:\Users\André\source\repos\CSFila\obj\Debug\CSFila.pdb
+E:\Desenvolvimento de Sistemas\2º Mod\DS - Desenvolvimento de Software\Programa Fila - CSharp\bin\Debug\CSFila.exe.config
+E:\Desenvolvimento de Sistemas\2º Mod\DS - Desenvolvimento de Software\Programa Fila - CSharp\bin\Debug\CSFila.exe
+E:\Desenvolvimento de Sistemas\2º Mod\DS - Desenvolvimento de Software\Programa Fila - CSharp\bin\Debug\CSFila.pdb
+E:\Desenvolvimento de Sistemas\2º Mod\DS - Desenvolvimento de Software\Programa Fila - CSharp\obj\Debug\CSFila.csprojAssemblyReference.cache
+E:\Desenvolvimento de Sistemas\2º Mod\DS - Desenvolvimento de Software\Programa Fila - CSharp\obj\Debug\CSFila.exe
+E:\Desenvolvimento de Sistemas\2º Mod\DS - Desenvolvimento de Software\Programa Fila - CSharp\obj\Debug\CSFila.pdb
+E:\Desenvolvimento de Sistemas\2º Mod\DS - Desenvolvimento de Software\Programa Fila - CSharp\obj\Debug\CSFila.csproj.CoreCompileInputs.cache
